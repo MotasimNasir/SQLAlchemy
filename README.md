@@ -1,4 +1,4 @@
-# sqlalchemy-challenge - Surf’s Up!
+# Surf’s Up!
 
 The following repository contains climate analysis for Hawaii.
 
